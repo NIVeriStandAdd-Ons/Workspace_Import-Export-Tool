@@ -1,3 +1,5 @@
+prerequisite) Build all build specification for Source\Import-Export_Proj.lvproj
+
 1) Close Veristand if originally opened
 2) Copy the content of VS Test Project in the <VS Public Directory>Projects folder
 3) Open Import-Export_Proj.lvproj
